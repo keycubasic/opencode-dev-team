@@ -1,0 +1,6 @@
+# Normalize line endings: LF in the repository and LF in the working tree on
+# every platform, so the POSIX scripts in tools/ stay runnable on Windows.
+* text=auto eol=lf
+
+# POSIX scripts are always checked out with LF.
+*.sh text eol=lf

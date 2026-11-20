@@ -1,5 +1,7 @@
-![OpenCode dev team](assets/opencode/opencode-dev-team-light.svg#gh-light-mode-only)
-![OpenCode dev team](assets/opencode/opencode-dev-team-dark.svg#gh-dark-mode-only)
+<p align="center">
+  <img src="assets/opencode/opencode-dev-team-light.svg#gh-light-mode-only" alt="OpenCode dev team" width="640">
+  <img src="assets/opencode/opencode-dev-team-dark.svg#gh-dark-mode-only" alt="OpenCode dev team" width="640">
+</p>
 
 # .opencode — универсальная команда разработки
 

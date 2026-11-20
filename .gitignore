@@ -1,0 +1,22 @@
+TODO.md
+/architecture/
+
+# IDE / редакторы
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+.fleet/
+.vs/
+.settings/
+.project
+.classpath
+.factorypath
+.apt_generated/
+.sts4-cache/
+nbproject/
+out/
+bin/
+*.suo
+*.user
